@@ -1,5 +1,3 @@
-# Data-Science
-
 ## Problem Motivation:
 
 Banks and such other financial lending institutions often need to look at a loan applicant’s
@@ -15,7 +13,7 @@ from other sets and try to understand the static factors that correlate most hig
 company’s financial standing by way of creating a classification strategy and analyzing the
 steps taken by the model.
 
-• Target and Predictor Variables:
+## Target and Predictor Variables:
 
 A total of 42 features were used in order to determine the target in the final classifier,
 which itself was a compounded variable obtained from the output of the SVM classifier
@@ -40,7 +38,7 @@ dataset to solve the problem statement. Due to the presence of a lot of features
 variance resulting from the data being of different companies, the Random Forest model
 fit the data the best and provided the best overall accuracy.
 
-• Evaluation Approach:
+## Evaluation Approach:
 
 The task of evaluating the data was completed in 4 steps:
 1. Data Cleansing: Since the data we operated upon came from multiple datasets from
@@ -75,7 +73,7 @@ An ROC curve could not be generated for this since the label was multi-class and
 binary, though a good measure of confidence was found by the ~0.5 value of the
 Matthews correlation co-efficient.
 
-• Assumptions/Limitations:
+## Assumptions/Limitations:
 
 1. Bankruptcy prediction is a major topic of Machine Learning research. There are several
 research papers on the topic, and several of them employ Neural Networks and
@@ -96,7 +94,7 @@ and the continuous averaged Time Series prediction. We have assumed that this is
 good indicator of whether the company is rising or declining, and consequently,
 whether it is safe to provide the company a loan.
 
-• Problem in Scope of Class:
+## Problem in Scope of Class:
 
 Having used multiple Classification strategies as well as modelling the time series, this
 analysis can be taken further by increasing the number of features and data points to
