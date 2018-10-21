@@ -23,7 +23,7 @@ Expenditures, Additional Income Expense Items, Accounts Receivable and After Tax
 Return on Equity.
 The Target Variable was a sum of the percentage change of the organization’s stock price
 over a period of 2 years and the likelihood of it going bankrupt in the next 4 years.
-• Problem Statement:
+* Problem Statement:
 To Identify various static features which are responsible for determining a company’s
 growth trend and consequently its eligibility for a loan.
 • Type of Model:
