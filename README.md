@@ -26,7 +26,7 @@ over a period of 2 years and the likelihood of it going bankrupt in the next 4 y
 * Problem Statement:
 To Identify various static features which are responsible for determining a company’s
 growth trend and consequently its eligibility for a loan.
-• Type of Model:
+* Type of Model:
 The datasets taken up include data from companies that have filed for bankruptcy, 6-year
 stock trends of organizations from the New York Stock Exchange and financial data of
 these companies. We tried out multiple models on the bankrupt companies dataset,
